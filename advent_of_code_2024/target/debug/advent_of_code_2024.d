@@ -1,1 +1,1 @@
-/home/eseidel/Nextcloud/Code/rust_learning/advent_of_code_2024/target/debug/advent_of_code_2024: /home/eseidel/Nextcloud/Code/rust_learning/advent_of_code_2024/src/main.rs
+/home/eseidel/Nextcloud/Code/rust_learning/advent_of_code_2024/target/debug/advent_of_code_2024: /home/eseidel/Nextcloud/Code/rust_learning/advent_of_code_2024/src/day_one.rs /home/eseidel/Nextcloud/Code/rust_learning/advent_of_code_2024/src/main.rs
